@@ -1,0 +1,8 @@
+data/
+models/
+CLAUDE.md
+.claude/
+__pycache__/
+.ipynb_checkpoints/
+figures/*_v[0-9]*.png
+logs/
